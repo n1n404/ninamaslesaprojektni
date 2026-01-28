@@ -36,7 +36,7 @@ span {color: rgb(255, 0, 255);}
 	background-size: 1337px 958px;
 }
 .drugapozadina {
-	background-image:url("mojprojekti/catwoman.png");
+	background-image:url("mojiprojekti/catwoman.png");
 	background-size: 1400px 851px;
 }
 .trecapozadina {
@@ -123,3 +123,4 @@ img {
 	right: -350px;
 	bottom: -700px;
 }
+
